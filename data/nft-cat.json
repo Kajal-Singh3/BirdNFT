@@ -1,8 +1,8 @@
 {
     "name": "Bird Token",
     "description": "Introducing the Cat NFT. Buy them for good fortune.",
-    "image": "",
-    "external_url": "",
+    "image": "https://kajal-singh3.github.io/BirdNFT/image/bird-1.png",
+    "external_url": "https://kajal-singh3.github.io/BirdNFT/",
     "attributes": [
       {
         "trait_type": "Artifact",
