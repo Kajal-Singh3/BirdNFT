@@ -1,0 +1,16 @@
+{
+    "name": "Bird Token",
+    "description": "Introducing the Cat NFT. Buy them for good fortune.",
+    "image": "",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Artifact",
+        "value": "bird"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Genesis"
+      }
+    ]
+  }
